@@ -630,6 +630,8 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [xlog](https://github.com/rs/xlog) - A structured logger for `net/context` aware HTTP handlers with flexible dispatching.
 * [zap](https://github.com/uber-go/zap) - Fast, structured, leveled logging in Go.
 * [zerolog](https://github.com/rs/zerolog) - Zero-allocation JSON logger.
+* [limiter](https://github.com/korovkin/limiter) - Go routines limiter (concurrency limiter)
+* [worker](https://github.com/korovkin/worker) - GCD - Grand Central Dispatch style worker 
 
 ## Machine Learning
 
